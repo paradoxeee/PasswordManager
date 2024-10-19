@@ -24,3 +24,8 @@ $ make
 $ make run
 ```
 Side information: To use the application in a special environment use ```make run``` to start
+
+## Feedback
+
+If you have any feedback, please reach out to us at parad0xeee@proton.me
+
