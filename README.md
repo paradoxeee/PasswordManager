@@ -7,7 +7,7 @@ This project is a simple password manager using AES encryption to store password
 
 - Add, delete and display passwords for different platforms.
 - Verification of password security.
-- Random password generation.
+- Secure random password generator.
 - Encrypted storage of passwords in a file.
 
 ## Instructions
